@@ -1,0 +1,1 @@
+Öffne das Terminal und führe mit 'node createBlog1.js' die Funktion zum Erstellen der Datei blog1.txt aus. Danach kannst du mit 'node index.js' den Code in index.js ausführen und überprüfen, ob alle Dateien erfolgreich geändert oder erstellt wurden: zum einen in der Ausgabe console.log() im Terminal und zum anderen im Ordnerverzeichnis. 
